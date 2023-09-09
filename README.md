@@ -1,11 +1,11 @@
-### Title : Experiment 1 UML-use-case-diagram
+### ***Title*** : Experiment 1 UML-use-case-diagram
 
-### Aim : To design UML use case diagram
+### ***Aim*** : To design UML use case diagram
 
-### Theory : 
+### ***Theory*** : 
 A use case is a list of actions or event steps typically defining the interactions between a role of an actor and a system to achieve a goal. A use case is a useful technique for identifying, clarifying, and organizing system requirements. A use case is made up of a set of possible sequences of interactions between systems and users that defines the features to be implemented and the resolution of any errors that may be encountered.While a use case itself might drill into a lot of detail (such as, flow of events and scenarios) about every possibility, a use-case diagram can help provide a higher-level view of the system, providing the simplified and graphical representation of what the system must actually do.A use case (or set of use cases) has these characteristics:Organizes functional requirements,Models the goals of system/actor (user) interactions,Describes one main flow of events (main scenarios) and possibly other exceptional flows (alternatives), also called paths or user scenarios.
 
-### Explanation : Benefits of Use Case Diagram
+### ***Explanation*** : Benefits of Use Case Diagram
 1. Use cases is a powerful technique for the elicitation and documentation of black-box functional requirements.
 
 2. Because, use cases are easy to understand and provide an excellent way for communicating with customers and users as they are written in natural language.
@@ -32,6 +32,6 @@ A use case is a list of actions or event steps typically defining the interactio
 
 6. Prioritize, review, estimate and validate the users.
 
-### Output Screenshot :
+### ***Output Screenshot*** :
 
 https://github.com/anikethmehta/Experiment1-UML-use-case-diagram/blob/main/Elevator%20Use%20case%20diagram.png
