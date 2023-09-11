@@ -32,6 +32,23 @@ A use case is a list of actions or event steps typically defining the interactio
 
 6. Prioritize, review, estimate and validate the users.
 
+### Components of Use case diagram :
+1.***Actor***
+
+Actors are usually individuals involved with the system defined according to their roles. The actor can be a human or other external system.
+
+2.***Use Case***
+
+A use case describes how actors uses a system to accomplish a particular goal. Use cases are typically initiated by a user to fulfill goals describing the activities and variants involved in attaining the goal.
+
+3.***Relationship***
+
+The relationships between and among the actors and the use cases.
+
+4.***System Boundary***
+
+The system boundary defines the system of interest in relation to the world around it.
+
 ### ***Output Screenshot*** :
 
 https://github.com/anikethmehta/Experiment1-UML-use-case-diagram/blob/main/Elevator%20Use%20case%20diagram.png
